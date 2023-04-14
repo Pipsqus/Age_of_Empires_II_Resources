@@ -20,3 +20,15 @@
 | Eagle			| All Infantry       								|
 | Ram			| Slinger, Hand Cannoneer, Galley, Scorpion <br>(Conquistador, Caravel, Longboat, Arambai, Organ Gun, Jannissary, Hussite Wagon, Magyar Huszar)	| Trebuchet
 | Unique Units		| Samurai		      							|
+
+## Custom Maps and Campaigns
+
+> [Filthydelphia’s Campaign Collection](https://forums.ageofempires.com/t/filthydelphias-campaign-collection/112886)
+
++ Finehair - The Conquest of Norway. Working through it
++ Wreck of the Santa Maria. 5/10
+
+
+
+
+
